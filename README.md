@@ -8,4 +8,4 @@ Fork updates:
 
 - Uses the 2.3.1 version of the Leap Motion lib. (OS X only)
 - Adds scripts for switching lib versions.
-- Run the `set231headers213.sh` after clone.
+- Run the `set231headers213.sh` after clone (will create a symbolic link `libs`)
